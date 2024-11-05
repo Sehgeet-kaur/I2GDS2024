@@ -28,7 +28,7 @@ The general structure of microbiome analysis pipelines can be broadly delineated
 **Diversity Analysis:** Examining the diversity and richness of microbial communities. Alpha and beta diversity metrics are computed to compare microbial communities across different samples with tools like **QIIME**. 
 **Comparative Genomics:** Comparing genetic content across different samples or species to identify unique or shared features. 
 **Metabolic Pathway Reconstruction:** Mapping genes to metabolic pathways to understand the functional capabilities of microbial communities. 
-
+<p align="justify">
 **6. Data Integration and Visualization** Integrating data from multiple analyses or studies and visualizing them effectively is crucial for interpretation and communication of results: 
 **Data Integration:** Combining data from various sources or replicates to build a cohesive analysis dataset. 
 **Visualization:** Using tools like Circos for genomic data visualization, or software like QIIME for microbiome diversity visualization. These tools help in presenting complex data in an interpretable and visually appealing manner.
@@ -42,8 +42,9 @@ The general structure of microbiome analysis pipelines can be broadly delineated
 - Difficulty in linking microbial composition to functional outcomes due to limited available functional data.
 
 <h2>Conclusion</h2>
+<p align="justify">
 The field of microbiome analysis is advancing quickly thanks to new technologies. However, the complexity of the data and the fast pace of technological advancements bring ongoing challenges that need creative solutions. As we improve sequencing techniques and bioinformatics tools, it's crucial to also focus on standardizing methods and ensuring ethical practices. By addressing these challenges directly, we can keep microbiome analysis strong, leading to important discoveries that greatly enhance our understanding of the microbial world.
-
+</p>
 <h2>References</h2>
 
 - Bharti, R., & Grimm, D. G. (2021). Current challenges and best-practice protocols for microbiome analysis. In Briefings in Bioinformatics (Vol. 22, Issue 1, pp. 178–193). Oxford University Press. https://doi.org/10.1093/bib/bbz155
