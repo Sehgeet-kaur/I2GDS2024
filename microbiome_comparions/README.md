@@ -6,6 +6,9 @@ Microbiome studies have revolutionized our understanding of the microbial world 
 
 The general structure of microbiome analysis pipelines can be broadly delineated into several key stages, each designed to handle specific aspects of the sequencing data from preparation to final analysis. This systematic approach ensures that the data are optimally processed to yield accurate and comprehensive insights into microbial communities. Here’s a detailed overview of each stage: 
 
+
+
+
 **1. Data Retrival** This initial stage involves the collection and preparation of samples, followed by sequencing. Depending on the study's design, researchers might collect environmental, clinical, or experimental samples. The sequencing data obtained can be in various formats depending on the technology used. 
 
 **2. Preprocessing of Data** Preprocessing is crucial for ensuring the quality of data used in further analysis. This stage typically includes: 
