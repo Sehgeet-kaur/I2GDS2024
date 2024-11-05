@@ -2,9 +2,9 @@
 
 <p align="justify">
 Microbiome studies have revolutionized our understanding of the microbial world and its impact on ecosystems, health, and disease. The advent of advanced sequencing technologies has dramatically expanded our ability to explore and characterize microbial communities. However, the diversity of available bioinformatics tools and workflows can often be overwhelming, leading to challenges in selecting the appropriate pipeline for specific research goals. This is a comparative analysis of microbiome analysis pipelines, tailored to both **short-read** and **long-read** sequencing technologies.
-
+</p>
 <h2>General Structure of Microbiome Analysis Pipelines</h2>
-
+<p align="justify">
 The general structure of microbiome analysis pipelines can be broadly delineated into several key stages, each designed to handle specific aspects of the sequencing data from preparation to final analysis. This systematic approach ensures that the data are optimally processed to yield accurate and comprehensive insights into microbial communities. Here’s a detailed overview of each stage: 
 
 **1. Data Retrival** This initial stage involves the collection and preparation of samples, followed by sequencing. Depending on the study's design, researchers might collect environmental, clinical, or experimental samples. The sequencing data obtained can be in various formats depending on the technology used. 
@@ -32,7 +32,7 @@ The general structure of microbiome analysis pipelines can be broadly delineated
 **6. Data Integration and Visualization** Integrating data from multiple analyses or studies and visualizing them effectively is crucial for interpretation and communication of results: 
 **Data Integration:** Combining data from various sources or replicates to build a cohesive analysis dataset. 
 **Visualization:** Using tools like Circos for genomic data visualization, or software like QIIME for microbiome diversity visualization. These tools help in presenting complex data in an interpretable and visually appealing manner.
-
+</p>
 <h2>Challenges in Microbiome Analysis Pipelines</h2>
 
 - High complexity and volume of data from diverse microbial species increase computational demands.
