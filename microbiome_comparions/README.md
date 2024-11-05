@@ -1,5 +1,6 @@
 <h1>Comparative Overview of Microbiome Analysis Pipelines</h1>
 
+<p align="justify">
 Microbiome studies have revolutionized our understanding of the microbial world and its impact on ecosystems, health, and disease. The advent of advanced sequencing technologies has dramatically expanded our ability to explore and characterize microbial communities. However, the diversity of available bioinformatics tools and workflows can often be overwhelming, leading to challenges in selecting the appropriate pipeline for specific research goals. This is a comparative analysis of microbiome analysis pipelines, tailored to both **short-read** and **long-read** sequencing technologies.
 
 <h2>General Structure of Microbiome Analysis Pipelines</h2>
@@ -52,3 +53,4 @@ The field of microbiome analysis is advancing quickly thanks to new technologies
 - Gehrig, J. L., Portik, D. M., Driscoll, M. D., Jackson, E., Chakraborty, S., Gratalo, D., Ashby, M., & Valladares, R. (2022). Finding the right fit: evaluation of short-read and long-read sequencing approaches to maximize the utility of clinical microbiome data. Microbial Genomics, 8(3). https://doi.org/10.1099/mgen.0.000794
   
 - Gladman, N., Goodwin, S., Chougule, K., Richard McCombie, W., & Ware, D. (2023). Era of gapless plant genomes: innovations in sequencing and mapping technologies revolutionize genomics and breeding. In Current Opinion in Biotechnology (Vol. 79). Elsevier Ltd. https://doi.org/10.1016/j.copbio.2022.102886
+</p>
